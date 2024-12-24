@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI project<br>🌱 I’m currently learning Robot Operating System &  Machine Learning<br>💬 Ask me about Computer Science & Industrial Automation<br><br>RadioHead - No Surprises<br>
-──⚪️───────────────────────────────────────── <br> ◄◄⠀▐▐ ⠀►►⠀⠀↻⇆⠀⠀⠀ 0:07 / 4:28⠀ 🔊 ──────○ ⠀ ⚙️ ☰
+🔭 I’m currently working on AI project<br>🌱 I’m currently learning Robot Operating System &  Machine Learning<br>💬 Ask me about Computer Science & Industrial Automation<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=MEK-0&icon=7&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
