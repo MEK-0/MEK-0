@@ -1,10 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on AI project<br>🌱 I’m currently learning Robot Operating System &  Machine Learning<br>💬 Ask me about Computer Science & Industrial Automation<br><br>
 
-[![](https://visitcount.itsvg.in/api?id=MEK-0&icon=7&color=0)](https://visitcount.itsvg.in)
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MEK-0/count.svg?"  />
-</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.esat.kly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahmutesatkolay/) 
